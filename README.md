@@ -33,11 +33,7 @@
 </p>
 ---
 My favorite dependencies, now in audio.
-<div align="center">
-  <a href="https://open.spotify.com/user/Sayani">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sayani&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=315qor4zyvgacm64ungtvo4v7p4a)
 
 ###
 # 📊 GitHub Stats:
