@@ -31,9 +31,17 @@
 <a href="https://auth.geeksforgeeks.org/user/isayani_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="isayani_05" height="30" width="40" /></a>
 <a href="https://discord.gg/isayani_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="isayani_78" height="30" width="40" /></a>
 </p>
----
-My favorite dependencies, now in audio.
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=315qor4zyvgacm64ungtvo4v7p4a)
+
+### My favorite dependencies, now in audio.
+
+<div align=center>  
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315qor4zyvgacm64ungtvo4v7p4a&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=315qor4zyvgacm64ungtvo4v7p4a&redirect=true)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315qor4zyvgacm64ungtvo4v7p4a)
+  
+</div>
+
 
 ###
 # 📊 GitHub Stats:
