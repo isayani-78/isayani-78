@@ -2,9 +2,7 @@
 
 💫 ABOUT ME----
 
-- 🔭 I’m currently working on **1. 🧪 Phishing URL Detector using Machine Learning.
-                                 2. 🛑 Port Scanner
-                                 3.🧠 AI-Powered Phishing Email Detector**
+- 🔭 I’m currently working on **🧠 AI-Powered Phishing Email Detector**
 
 - 🌱 I’m currently learning **Digital Forensic & pentesting.**
 
