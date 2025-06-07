@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on **🧠 AI-Powered Phishing Email Detector.**
 
+-✅ currently complete a project **🤖 Simple AI Chat-Bot (SISA - Smart Interactive Search Assistant)**
+
 - 🌱 I’m currently learning **Digital Forensic & pentesting.**
 
 - 🤝 I’m looking for help with **🔐 Custom Authentication System with Pen Test Evaluation.**
