@@ -44,11 +44,30 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=isayani-78&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align = "center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=isayani-78&theme=neon&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isayani-78&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img
+    src = "https://github-readme-streak-stats.herokuapp.com/?user=isayani-78&theme=neon&ring=1AB9D9&file=1AB9D9&currStreakNum=1AB9D9&currStreakLabel=1AB9D9&hide&hide_border=true" 
+    alt = "Streak Stats"
+    aspect-ratio = "auto 247/97"
+    width = "50%"
+  />
+ 
+ <br>
+  <img
+    src = "https://github-readme-stats.vercel.app/api?username=isayani-78&theme=neon&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" 
+    alt = "GitHub Stats"
+    aspect-ratio = "auto 5/2"
+    width = "48%"
+  />
+  <br>
+  <img
+    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=isayani-78&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt = "Language Stats"
+    aspect-ratio = "auto 50/17"
+    width = "46%"
+  />
+</div>
 
 ---
 ## 🏆 GitHub Trophies
@@ -56,10 +75,13 @@
 
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=isayani-78&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=isayani-05&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align = "center">
+  <img 
+    src = "https://github-contributor-stats.vercel.app/api?username=isayani-78&limit=5&theme=neon&combine_all_yearly_contributions=true&hide_border=true"
+    alt = "Language Stats"
+    width = "50%"
+  />
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
