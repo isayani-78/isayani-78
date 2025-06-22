@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Digital Forensic & pentesting.**
 
-- 🤝 I’m looking for help with **🔐 Custom Authentication System with Pen Test Evaluation.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/isayani-78](https://github.com/isayani-78)
 
 - 💬 Ask me about **Digital investigation.**
