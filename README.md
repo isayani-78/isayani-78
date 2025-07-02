@@ -61,9 +61,7 @@
    </a>
 </div>
  
-<div align=center> 
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=isayani-78&langs_count=15&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="isayani-78" /></p>
-</div>
+
 
 ---
 ## 🏆 GitHub Trophies
