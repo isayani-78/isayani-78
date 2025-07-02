@@ -49,29 +49,20 @@
 ---
 
 # 📊 GitHub Stats:
-<div align = "center">
 
-  <img
-    src = "https://github-readme-streak-stats.herokuapp.com/?user=isayani-78&theme=neon&ring=1AB9D9&file=1AB9D9&currStreakNum=1AB9D9&currStreakLabel=1AB9D9&hide&hide_border=true" 
-    alt = "Streak Stats"
-    aspect-ratio = "auto 247/97"
-    width = "50%"
-  />
+<div align="center">
+   <a href="https://github.com/isayani-78">
  
- <br>
-  <img
-    src = "https://github-readme-stats.vercel.app/api?username=isayani-78&theme=neon&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" 
-    alt = "GitHub Stats"
-    aspect-ratio = "auto 5/2"
-    width = "48%"
-  />
-  <br>
-  <img
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=isayani-78&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-    alt = "Language Stats"
-    aspect-ratio = "auto 50/17"
-    width = "46%"
-  />
+   <img src="https://github-readme-stats.vercel.app/api?username=isayani-78&show_icons=true&rank_icon=github&theme=highcontrast&card_width=320" width=49% height=100%/>
+   </a>
+   <a href="https://github.com/isayani-78">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=isayani-78&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="isayani-78" width=49% height=100%/>
+   <br/>
+   </a>
+</div>
+ 
+<div align=center> 
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=isayani-78&langs_count=15&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="isayani-78" /></p>
 </div>
 
 ---
