@@ -53,10 +53,10 @@
 <div align="center">
    <a href="https://github.com/isayani-78">
  
-   <img src="https://github-readme-stats.vercel.app/api?username=isayani-78&show_icons=true&rank_icon=github&theme=highcontrast&card_width=320" width=49% height=100%/>
+   <img src="https://github-readme-stats.vercel.app/api?username=isayani-78&show_icons=true&rank_icon=github&theme=highcontrast&card_width=320" width=600 height=100%/>
    </a>
    <a href="https://github.com/isayani-78">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=isayani-78&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="isayani-78" width=49% height=100%/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=isayani-78&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="isayani-78" width=600 height=100%/>
    <br/>
    </a>
 </div>
