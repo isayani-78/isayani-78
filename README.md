@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **🧠 AI-Powered Phishing Email Detector.**
 
-- ✅ currently completed **🔐Basic Passoword Generator (Python Based)**
+- ✅ currently completed **(Python Based) 🔐Basic Passoword Generator , ▶ Caesar-Cipher-generator**
 
 - 🌱 I’m currently learning **Digital Forensic & pentesting.**
 
