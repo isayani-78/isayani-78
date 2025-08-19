@@ -4,7 +4,8 @@
 
 💫 ABOUT ME----
 
-- 🔭 I’m currently working on **🧠 AI-Powered Phishing Email Detector.**
+- 🔭 I’m currently working on **PyNetScanGUI (Python GUI based Network Scanner).**
+- 🤝 I’m looking for help with **🧠 AI-Powered Phishing Email Detector.**
 
 - **✅ currently completed:-**
   
