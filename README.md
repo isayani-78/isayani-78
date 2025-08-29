@@ -9,7 +9,7 @@
 
 - **✅ currently completed:-**
   
-     **. 🔐Basic Password Generator**
+     **. 🔐Basic Strong Password Generator**
   
     **. ▶ Caesar-Cipher-generator**
 
