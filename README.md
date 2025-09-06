@@ -30,19 +30,38 @@
   
 ---
 
-### Connect with me 💻
-<p align="centre">
-<a href="https://twitter.com/isayani78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isayani78" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sayanimaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayanimaity" height="30" width="40" /></a>
-<a href="https://kaggle.com/isayani78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="isayani78" height="30" width="40" /></a>
-<a href="https://fb.com/isayani78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isayani78" height="30" width="40" /></a>
-<a href="https://medium.com/@isayani-78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@isayani-78" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/isayani_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isayani_78" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/isayani78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="isayani78" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/isayani-78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="isayani-78" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/isayani_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="isayani_05" height="30" width="40" /></a>
-<a href="https://discord.gg/isayani_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="isayani_78" height="30" width="40" /></a>
+## Connect with me 💻  
+
+<p align="center">
+  <a href="https://x.com/isayani78">
+    <img src="https://img.shields.io/badge/Twitter-%20?style=plastic&logo=twitter&logoColor=white&color=0d8ddb&label=Follow%20on%20Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayanimaity/">
+    <img src="https://img.shields.io/badge/LinkedIn-%20?style=plastic&logo=linkedin&logoColor=white&color=004182&label=Connect%20on%20LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/isayani78">
+    <img src="https://img.shields.io/badge/Facebook-%20?style=plastic&logo=facebook&logoColor=white&color=0d4dad&label=Facebook%20Profile" />
+  </a>
+  <a href="https://medium.com/@isayani-78">
+    <img src="https://img.shields.io/badge/Medium-%20?style=plastic&logo=medium&logoColor=white&color=111111&label=Read%20on%20Medium" />
+  </a>
+  <a href="https://www.youtube.com/@isayani_78">
+    <img src="https://img.shields.io/badge/YouTube-%20?style=plastic&logo=youtube&logoColor=white&color=cc0000&label=Watch%20on%20YouTube" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/isayani78">
+    <img src="https://img.shields.io/badge/HackerRank-%20?style=plastic&logo=hackerrank&logoColor=white&color=1d703f&label=Solve%20on%20HackerRank" />
+  </a>
+  <a href="https://www.kaggle.com/isayani78">
+    <img src="https://img.shields.io/badge/Kaggle-%20?style=plastic&logo=kaggle&logoColor=white&color=1273a6&label=Explore%20Kaggle" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/isayani25/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%20?style=plastic&logo=geeksforgeeks&logoColor=white&color=145d2d&label=Practice%20at%20GFG" />
+  </a>
+  <a href="https://discord.com/invite/isayani_78">
+    <img src="https://img.shields.io/badge/Discord-%20?style=plastic&logo=discord&logoColor=white&color=3a45cc&label=Join%20on%20Discord" />
+  </a>
 </p>
+
 
 ---
 
