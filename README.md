@@ -78,15 +78,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=isayani-78&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-### 🔝 Top Contributed Repo
-<div align = "center">
-  <img 
-    src = "https://github-contributor-stats.vercel.app/api?username=isayani-78&limit=5&theme=neon&combine_all_yearly_contributions=true&hide_border=true"
-    alt = "Language Stats"
-    width = "50%"
-  />
-</div>
+### 🔝 Contribution
+<div align="center">
 
+[![Sayani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isayani-78&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 ---
 
 
