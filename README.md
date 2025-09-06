@@ -84,7 +84,6 @@
 [![Sayani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isayani-78&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
----
 
 
 ### Languages and Tools 💻 
