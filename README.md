@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/isayani-78](https://github.com/isayani-78)
 
-- Here is my Personal Portfolio Website💻 https://isayani-78.github.io/
+- Here is my Resume Portfolio Website💻 https://isayani-78.github.io/
   
 - 💬 Ask me about **Digital investigation.**
 
