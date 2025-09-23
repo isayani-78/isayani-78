@@ -70,7 +70,7 @@
 
 ---
 
-### My favorite dependencies, now in audio. ❤🎶
+### My Favourite Dependencies, Now in Audio. ❤🎶
 
 <div align=center>  
   
