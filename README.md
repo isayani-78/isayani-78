@@ -21,6 +21,8 @@
   
 - 💬 Ask me about **Digital investigation.**
 
+- **CEH Trained.**
+
 - 📫 How to reach me **sayanimaity2024@gmail.com**
 
 - ⚡ Fun fact **Hackers once used a refrigerator connected to the internet to launch a cyberattack—proving even your kitchen can be part of a botnet! 😄**
