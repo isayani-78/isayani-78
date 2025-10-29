@@ -23,7 +23,7 @@
 
 - **CEH Trained.**
 
-- **Top 8% in Tryhackme.**
+- **Top 8% in Tryhackme.** https://tryhackme.com/p/Sayani
 
 - 📫 How to reach me **sayanimaity2024@gmail.com**
 
