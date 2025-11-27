@@ -4,7 +4,7 @@
 
 💫 ABOUT ME----
 
-- 🔭 I’m currently working on **CyberSec Multi-Tool Launcher (CMTL)**
+- 🔭 I’m currently working on **CyberSec Multi-Tool Launcher (CMTL) & Forensic Analyzer**
 - 🤝 I’m looking help for **🧠 AI-Powered Phishing Email Detector.**
 
 - **✅ currently completed:-**
