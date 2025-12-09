@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **CyberSec Multi-Tool Launcher (CMTL) & Forensic Analyzer**
 - 🤝 I’m looking help for **🧠 AI-Powered Phishing Email Detector.**
 
-- **✅ currently completed:-**
+- **✅ currently completed:- (Basic Cyber security Tools)**
   
      **. 🔐Basic Strong Password Generator**
   
