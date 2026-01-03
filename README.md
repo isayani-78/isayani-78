@@ -63,9 +63,7 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png">
   </a>
   &nbsp;
-  <a href="https://medium.com/@isayani-78" alt="Sayani Maity | Medium">
-    <img src="https://img.icons8.com/ios-filled/48/000000/medium-logo.png">
-  </a>
+ <a href="https://medium.com/@isayani-78" alt="Sayani Maity | Medium"><img width="48" height="48" src="https://img.icons8.com/arcade/48/000000/medium-logo.png" alt="medium-logo"/>
   &nbsp;
   <a href="https://www.geeksforgeeks.org/user/isayani25/" alt="Sayani Maity | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/></a>
   &nbsp;
