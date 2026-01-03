@@ -19,42 +19,60 @@
 
 - **Top 5% in Tryhackme.** https://tryhackme.com/p/Sayani
 
-- 📫 How to reach me **sayanimaity78@gmail.com**
-
-- ⚡ Fun fact:   **Hackers once used a refrigerator connected to the internet to launch a cyberattack—proving even your kitchen can be part of a botnet! 😄**
-
   **<p align="center"> 🌱 Give me another chance, wanna grow up once again..... </p>**
 
   
 ---
+# 💻 My Workspace
+
+![OS](https://img.shields.io/badge/Windows-11_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-Core_i5_11th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-24_GB-2ECC71?style=for-the-badge)
+![GPU](https://img.shields.io/badge/Intel-Iris_Xe_Graphics-0B5394?style=for-the-badge&logo=intel&logoColor=white)
+
+
+## 🧪 Virtualization & Pentesting OS
+
+![Kali](https://img.shields.io/badge/Kali_Linux-Pentesting-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Parrot](https://img.shields.io/badge/Parrot_OS-Security-1F8AC0?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+---
+
 
 ## Connect with me 💻  
 
 <p align="center">
-  <a href="https://x.com/isayani78">
-    <img src="https://img.shields.io/badge/Twitter-%20?style=plastic&logo=twitter&logoColor=white&color=0d8ddb&label=Follow%20on%20Twitter" />
+  <a href="https://x.com/isayani78" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/sayanimaity/">
-    <img src="https://img.shields.io/badge/LinkedIn-%20?style=plastic&logo=linkedin&logoColor=white&color=004182&label=Connect%20on%20LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sayanimaity/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.svg" height="40"/>
   </a>
-  <a href="https://www.facebook.com/isayani78">
-    <img src="https://img.shields.io/badge/Facebook-%20?style=plastic&logo=facebook&logoColor=white&color=0d4dad&label=Facebook%20Profile" />
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/isayani78" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
   </a>
-  <a href="https://medium.com/@isayani-78">
-    <img src="https://img.shields.io/badge/Medium-%20?style=plastic&logo=medium&logoColor=white&color=111111&label=Read%20on%20Medium" />
+  &nbsp;&nbsp;
+  <a href="mailto:isayani78@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@isayani_78">
-    <img src="https://img.shields.io/badge/YouTube-%20?style=plastic&logo=youtube&logoColor=white&color=cc0000&label=Watch%20on%20YouTube" />
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@isayani-78" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/000000" height="40"/>
   </a>
- 
- 
-  <a href="https://www.geeksforgeeks.org/user/isayani25/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%20?style=plastic&logo=geeksforgeeks&logoColor=white&color=145d2d&label=Practice%20at%20GFG" />
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/isayani25/" target="_blank">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="40"/>
   </a>
-  <a href="https://discord.com/invite/isayani_78">
-    <img src="https://img.shields.io/badge/Discord-%20?style=plastic&logo=discord&logoColor=white&color=3a45cc&label=Join%20on%20Discord" />
+  &nbsp;&nbsp;
+  <a href="https://discord.com/invite/isayani_78" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40"/>
   </a>
 </p>
+
 
 
 ---
