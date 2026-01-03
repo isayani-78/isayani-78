@@ -52,12 +52,8 @@
   <a href="https://www.youtube.com/@isayani_78">
     <img src="https://img.shields.io/badge/YouTube-%20?style=plastic&logo=youtube&logoColor=white&color=cc0000&label=Watch%20on%20YouTube" />
   </a>
-  <a href="https://www.hackerrank.com/profile/isayani78">
-    <img src="https://img.shields.io/badge/HackerRank-%20?style=plastic&logo=hackerrank&logoColor=white&color=1d703f&label=Solve%20on%20HackerRank" />
-  </a>
-  <a href="https://www.kaggle.com/isayani78">
-    <img src="https://img.shields.io/badge/Kaggle-%20?style=plastic&logo=kaggle&logoColor=white&color=1273a6&label=Explore%20Kaggle" />
-  </a>
+ 
+ 
   <a href="https://www.geeksforgeeks.org/user/isayani25/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%20?style=plastic&logo=geeksforgeeks&logoColor=white&color=145d2d&label=Practice%20at%20GFG" />
   </a>
