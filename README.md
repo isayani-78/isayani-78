@@ -34,7 +34,7 @@
 ![GPU](https://img.shields.io/badge/Intel-Iris_Xe_Graphics-0B5394?style=for-the-badge&logo=intel&logoColor=white)
 
 
-## 🧪 Virtualization & Pentesting OS
+##  Virtualization & Pentesting OS
 
 ![Kali](https://img.shields.io/badge/Kali_Linux-Pentesting-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Parrot](https://img.shields.io/badge/Parrot_OS-Security-1F8AC0?style=for-the-badge&logo=linux&logoColor=white)
