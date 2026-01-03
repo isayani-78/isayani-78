@@ -25,7 +25,7 @@
 
 - **Top 5% in Tryhackme.** https://tryhackme.com/p/Sayani
 
-- 📫 How to reach me **sayanimaity2024@gmail.com**
+- 📫 How to reach me **sayanimaity78@gmail.com**
 
 - ⚡ Fun fact:   **Hackers once used a refrigerator connected to the internet to launch a cyberattack—proving even your kitchen can be part of a botnet! 😄**
 
