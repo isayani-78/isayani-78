@@ -44,32 +44,30 @@
 ## Connect with me 💻  
 
 <p align="center">
-  <a href="https://x.com/isayani78" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" height="40"/>
+  <a href="https://x.com/isayani78" alt="Sayani Maity | X">
+    <img src="https://img.icons8.com/ios-filled/48/FFFFFF/x.png" style="background:#000;padding:8px;border-radius:6px;">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sayanimaity/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.svg" height="40"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sayanimaity/" alt="Sayani Maity | LinkedIn">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/isayani78" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
+  &nbsp;
+  <a href="https://www.facebook.com/isayani78" alt="Sayani Maity | Facebook">
+    <img src="https://img.icons8.com/color/48/facebook-new.png">
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:isayani78@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
+  &nbsp;
+  <a href="mailto:isayani78@gmail.com" alt="Sayani Maity | Email">
+    <img src="https://img.icons8.com/color/48/gmail-new.png">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@isayani-78" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/000000" height="40"/>
+  &nbsp;
+  <a href="https://medium.com/@isayani-78" alt="Sayani Maity | Medium">
+    <img src="https://img.icons8.com/ios-filled/48/000000/medium-logo.png">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/isayani25/" target="_blank">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/invite/isayani_78" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40"/>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/isayani25/" alt="Sayani Maity | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/></a>
+  &nbsp;
+  <a href="https://discord.com/invite/isayani_78" alt="Sayani Maity | Discord">
+    <img src="https://img.icons8.com/color/48/discord--v2.png">
   </a>
 </p>
 
