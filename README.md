@@ -7,12 +7,6 @@
 - 🔭 I’m currently working on **CyberSec Multi-Tool Launcher (CMTL) & Forensic Analyzer**
 - 🤝 I’m looking help for **🧠 AI-Powered Phishing Email Detector.**
 
-- **✅ currently completed:- (Basic Cyber security Tools)**
-  
-     **. 🔐Basic Strong Password Generator**
-  
-    **. ▶ Caesar-Cipher-generator**
-
 - 🌱 I’m currently learning **Digital Forensic & pentesting.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/isayani-78](https://github.com/isayani-78)
