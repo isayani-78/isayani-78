@@ -15,7 +15,7 @@
   
 - 💬 Ask me about **Digital investigation.**
 
-- **CEH Trained.**
+- **🛡️ I am currently **pursuing the CEH (Certified Ethical Hacker) Global Certification from EC-Council to enhance my cybersecurity skills.**
 
 - **Top 5% in Tryhackme.** https://tryhackme.com/p/Sayani
 
