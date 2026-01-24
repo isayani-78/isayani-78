@@ -47,7 +47,7 @@
 ## Connect with me 💻  
 
 <p align="center">
-  <a href="https://x.com/isayani78" alt="Sayani Maity | Twitter"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>>
+  <a href="https://x.com/isayani78" alt="Sayani Maity | Twitter" ><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sayanimaity/" alt="Sayani Maity | LinkedIn">
