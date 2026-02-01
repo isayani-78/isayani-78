@@ -11,8 +11,7 @@
 - 👨‍💻 All my projects are available at [GitHub](https://github.com/isayani-78)  
 - 💻 Resume Portfolio: [https://sayanimaity78.site](https://sayanimaity78.site)  
 - 💬 Ask me about **Digital Investigations & Ethical Hacking**  
-
-**🛡️ Certifications:**  
+  
 | ![CEH v13](cehv13ai.png) | **CEHv13 AI Certified (Global Certification🌍 from Ec-council)** |
 |---------------------------|-----------------------------------|
 |**CHFI Trained** – Digital Forensics & Cyber Investigations |
