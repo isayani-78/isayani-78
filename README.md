@@ -2,25 +2,26 @@
 
 ---
 
-💫 ABOUT ME----
+💫 **ABOUT ME**
 
-- 🔭 I’m currently working on **CyberSec Multi-Tool Launcher (CMTL) & Forensic Analyzer**
-- 🤝 I’m looking help for **🧠 AI-Powered Phishing Email Detector.**
+- 🔭 I’m currently working on **CyberSec Multi-Tool Launcher (CMTL) & Forensic Analyzer**  
+- 🤝 I’m looking for collaboration on **🧠 AI-Powered Phishing Email Detector**  
 
-- 🌱 I’m currently learning **Digital Forensic & pentesting.**
-  
-- 👨‍💻 All of my projects are available at [https://github.com/isayani-78](https://github.com/isayani-78)
+- 🌱 Learning **Digital Forensics, Pentesting & AI/ML in Cybersecurity**  
+- 👨‍💻 All my projects are available at [GitHub](https://github.com/isayani-78)  
+- 💻 Resume Portfolio: [https://sayanimaity78.site](https://sayanimaity78.site)  
+- 💬 Ask me about **Digital Investigations & Ethical Hacking**  
 
-- Here is my Resume Portfolio Website💻 https://sayanimaity78.site/
-  
-- 💬 Ask me about **Digital investigation.**
+**🛡️ Certifications:**  
+| ![CEH v13](cehv13ai.png) | **CEHv13 AI Certified (Global Certification🌍 from Ec-council)** |
+|---------------------------|-----------------------------------|
+|**CHFI Trained** – Digital Forensics & Cyber Investigations |
+|**CTIGA, CCEP, CPPS, CRTOM** –  Certifications based on Threat Intelligence, Cybersecurity & Pen Testing |
+| ![](Tryhackme.png) | **Top 5% on TryHackMe** |
 
-- **🛡️ Certified Forensic Investigator (CHFI) Trained** | Skilled in digital forensics, cyber investigations, and evidence analysis.
 
 
-- **🛡️ I am currently pursuing the CEH (Certified Ethical Hacker) Global Certification from EC-Council to enhance my cybersecurity skills.**
-
-- **Top 5% in Tryhackme.** https://tryhackme.com/p/Sayani
+---
 
   **<p align="center"> 🌱 Give me another chance, wanna grow up once again..... </p>**
 
