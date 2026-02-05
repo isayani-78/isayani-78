@@ -81,29 +81,32 @@
 ---
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<div align="center">
-   <a href="https://github.com/isayani-78">
-      <img src="https://github-readme-stats.vercel.app/api?username=isayani-78&show_icons=true&rank_icon=github&theme=highcontrast&card_width=320" width="400" height="100%"/>
-   </a>
-   <a href="https://github.com/isayani-78">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=isayani-78&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="isayani-78" width="400" height="100%"/>
-      <br/>
-   </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isayani-78&show_icons=true&theme=highcontrast&hide_border=true" width="420"/>
+</p>
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isayani-78&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isayani-78&theme=highcontrast&hide_border=true" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isayani-78&layout=compact&theme=highcontrast&hide_border=true" width="420"/>
+</p>
 
  
 
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=isayani-78&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isayani-78&theme=radical&no-frame=true&margin-w=8"/>
+</p>
+
+---
+## CTF Badges
 ---
 ### 🔝 Contribution
 <div align="center">
