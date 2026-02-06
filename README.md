@@ -97,6 +97,18 @@
   <img src="https://assets.tryhackme.com/img/badges/advent-of-cyber-2025.png" width="90" alt="Advent of Cyber 2025" />
 </p>
 
+---
+
+### Streaming Metadata. ❤🎶
+
+<div align=center>  
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315qor4zyvgacm64ungtvo4v7p4a&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=315qor4zyvgacm64ungtvo4v7p4a&redirect=true)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315qor4zyvgacm64ungtvo4v7p4a)
+  
+</div>
+
 
 ---
 ### 🔝 Contribution
