@@ -9,7 +9,8 @@
 
 - 🌱 Learning **Digital Forensics, Pentesting & AI/ML in Cybersecurity**  
 - 👨‍💻 All my projects are available at [GitHub](https://github.com/isayani-78)  
-- 💻 Resume Portfolio: [sayanimaity78.site](https://sayanimaity78.site)  
+- 💻 Resume Portfolio: [sayanimaity78.site](https://sayanimaity78.site)
+- 🔗 All my links in one place: [tr.ee/isayani](https://tr.ee/isayani)
 - 💬 Ask me about **Digital Investigations & Ethical Hacking**  
   
 | ![CEH v13](cehv13ai.png) | **CEHv13 AI Certified (Global Certification🌍 from Ec-council)** |
