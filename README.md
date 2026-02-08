@@ -50,8 +50,7 @@
 <a href="https://x.com/isayani78">
   <img src="./x-logo.svg" width="40" height="40" alt="X"/>
 </a>
-
-
+&nbsp;
   <a href="https://www.linkedin.com/in/sayanimaity/" alt="Sayani Maity | LinkedIn">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png">
   </a>
