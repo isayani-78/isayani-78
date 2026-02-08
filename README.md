@@ -48,12 +48,7 @@
 ## Connect with me 💻  
 
 <a href="https://x.com/isayani78">
-  <img
-    src="https://cdn.simpleicons.org/x/ffffff"
-    width="32"
-    height="32"
-    alt="X (Twitter)"
-  />
+  <img src="./x-logo.svg" width="40" height="40" alt="X"/>
 </a>
 
 
