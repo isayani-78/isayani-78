@@ -47,10 +47,18 @@
 
 ## Connect with me 💻  
 
-<p align="center">
-  <a href="https://x.com/isayani78" alt="Sayani Maity | Twitter" ><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/>
-  </a>
-  &nbsp;
+<a href="https://x.com/isayani78" aria-label="Sayani Maity | X">
+  <img
+    src="https://cdn.simpleicons.org/x/ffffff"
+    width="48"
+    height="48"
+    alt="X"
+    style="background-color:#000000; padding:6px; border-radius:6px;"
+  />
+</a>
+&nbsp;
+
+
   <a href="https://www.linkedin.com/in/sayanimaity/" alt="Sayani Maity | LinkedIn">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png">
   </a>
