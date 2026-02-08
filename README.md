@@ -59,7 +59,7 @@
     <img src="https://img.icons8.com/color/48/facebook-new.png">
   </a>
   &nbsp;
-  <a href="mailto:isayani78@gmail.com" alt="Sayani Maity | Email">
+  <a href="mailto:sayanimaity78@gmail.com" alt="Sayani Maity | Email">
     <img src="https://img.icons8.com/color/48/gmail-new.png">
   </a>
   &nbsp;
