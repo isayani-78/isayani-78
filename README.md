@@ -102,14 +102,11 @@
 
 ### Streaming Metadata. ❤🎶
 
-<div align=center>  
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315qor4zyvgacm64ungtvo4v7p4a&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=315qor4zyvgacm64ungtvo4v7p4a&redirect=true)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315qor4zyvgacm64ungtvo4v7p4a)
-   
-</div>
-
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=315qor4zyvgacm64ungtvo4v7p4a&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315qor4zyvgacm64ungtvo4v7p4a&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 ---
 ### 🔝 Contribution
