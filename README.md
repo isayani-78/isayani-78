@@ -49,16 +49,16 @@
 
 <p align="center">
   <a href="https://x.com/isayani78">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" width="45" alt="X"/>
-  </a>
+  <img src="./x-logo.svg" width="40" height="40" alt="X"/>
+</a>
   <a href="https://www.linkedin.com/in/sayanimaity/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/isayani78">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="45" alt="Facebook"/>
   </a>
-  <a href="mailto:sayanimaity78@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Email"/>
+  <a href="mailto:sayanimaity78@gmail.com" alt="Sayani Maity | Email">
+    <img src="https://img.icons8.com/color/48/gmail-new.png">
   </a>
   <a href="https://medium.com/@isayani-78">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" width="45" alt="Medium"/>
