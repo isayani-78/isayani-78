@@ -60,9 +60,9 @@
   <a href="mailto:sayanimaity78@gmail.com" alt="Sayani Maity | Email">
     <img src="https://img.icons8.com/color/48/gmail-new.png">
   </a>
-  <a href="https://medium.com/@isayani-78">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" width="45" alt="Medium"/>
-  </a>
+ <a href="https://medium.com/@isayani-78">
+  <img src="./medium-logo.svg" width="40" height="40" alt="Medium"/>
+</a>
   <a href="https://www.geeksforgeeks.org/user/isayani25/">
     <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="45" alt="GeeksforGeeks"/>
   </a>
