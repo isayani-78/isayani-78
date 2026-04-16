@@ -45,33 +45,31 @@
 ---
 
 
-## Connect with me 💻  
+## Connect with me 💻
 
-<a href="https://x.com/isayani78">
-  <img src="./x-logo.svg" width="40" height="40" alt="X"/>
-</a>
-&nbsp;
-  <a href="https://www.linkedin.com/in/sayanimaity/" alt="Sayani Maity | LinkedIn">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png">
+<p align="center">
+  <a href="https://x.com/isayani78">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" width="45" alt="X"/>
   </a>
-  &nbsp;
-  <a href="https://www.facebook.com/isayani78" alt="Sayani Maity | Facebook">
-    <img src="https://img.icons8.com/color/48/facebook-new.png">
+  <a href="https://www.linkedin.com/in/sayanimaity/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="mailto:sayanimaity78@gmail.com" alt="Sayani Maity | Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png">
+  <a href="https://www.facebook.com/isayani78">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="45" alt="Facebook"/>
   </a>
-  &nbsp;
- <a href="https://medium.com/@isayani-78" alt="Sayani Maity | Medium"><img width="48" height="48" src="https://img.icons8.com/arcade/48/000000/medium-logo.png" alt="medium-logo"/>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/isayani25/" alt="Sayani Maity | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/></a>
-  &nbsp;
-  <a href="https://discord.com/invite/isayani_78" alt="Sayani Maity | Discord">
-    <img src="https://img.icons8.com/color/48/discord--v2.png">
+  <a href="mailto:sayanimaity78@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" alt="Email"/>
+  </a>
+  <a href="https://medium.com/@isayani-78">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" width="45" alt="Medium"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/isayani25/">
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="45" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://discord.com/invite/isayani_78">
+    <img src="https://img.icons8.com/color/48/discord--v2.png" width="45" alt="Discord"/>
   </a>
 </p>
-
 
 
 ---
