@@ -119,10 +119,9 @@
 
 ---
 
-### ✍️ Random Dev Quote
 
 <div align="center">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="locard-quote.jpg" alt="Every contact leaves a trace - Edmond Locard" width="800"/>
 </div>
 
 
