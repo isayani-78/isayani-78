@@ -16,7 +16,7 @@
 | ![CEH v13](cehv13ai.png) | **CEHv13 AI Certified (Global Certification🌍 from Ec-council)** |
 |---------------------------|-----------------------------------|
 |**CHFI Trained** – Digital Forensics & Cyber Investigations |
-|**CTIGA, CCEP, CPPS, CRTOM** –  Certifications based on Threat Intelligence, Cybersecurity & Pen Testing |
+|**CTIGA, CCEP, CPPS, CRTOM** –  Certifications based on Threat Intelligence, Cybersecurity & Penetration Testing |
 | ![](Tryhackme.png) | **Top 5% on TryHackMe** |
 
 
