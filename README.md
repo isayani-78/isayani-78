@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **CyberSec Multi-Tool Launcher (CMTL) & Forensic Analyzer**  
 - 🤝 I’m looking for collaboration on **🧠 AI-Powered Phishing Email Detector**  
 
-- 🌱 Learning **Digital Forensics, Pentesting & AI/ML in Cybersecurity**  
+- 🛡️Specializing in **VAPT, Digital Forensics & AI-Driven Security**  
 - 👨‍💻 All my projects are available at [GitHub](https://github.com/isayani-78)  
 - 💻 Resume Portfolio: [sayanimaity78.site](https://sayanimaity78.site)
 - 🔗 All my links in one place: [tr.ee/isayani](https://tr.ee/isayani)
