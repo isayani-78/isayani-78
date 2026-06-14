@@ -17,7 +17,7 @@
 |---------------------------|-----------------------------------|
 |**CHFI Trained** – Digital Forensics & Cyber Investigations |
 |**CTIGA, CCEP, CPPS, CRTOM** –  Certifications based on Threat Intelligence, Cybersecurity & Penetration Testing |
-| ![](Tryhackme.png) | **Top 5% on TryHackMe** |
+| ![](Tryhackme.jpg) | **Top 5% on TryHackMe** |
 
 
 
