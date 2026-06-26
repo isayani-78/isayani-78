@@ -66,7 +66,7 @@
   <a href="https://www.geeksforgeeks.org/user/isayani25/">
     <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" width="45" alt="GeeksforGeeks"/>
   </a>
-  <a href="https://discord.com/invite/isayani_78">
+  <a href="https://discordapp.com/users/1178036036119560213">
     <img src="https://img.icons8.com/color/48/discord--v2.png" width="45" alt="Discord"/>
   </a>
 </p>
