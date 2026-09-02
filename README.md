@@ -13,14 +13,71 @@
 - 🔗 All my links in one place: [tr.ee/isayani](https://tr.ee/isayani)
 - 💬 Ask me about **Digital Investigations & Ethical Hacking**  
   
-| ![CEH v13](cehv13ai.png) | **CEHv13 AI Certified (Global Certification🌍 from Ec-council)** |
-|---------------------------|-----------------------------------|
-|**CHFI Trained** – Digital Forensics & Cyber Investigations |
-|**CTIGA, CCEP, CPPS, CRTOM** –  Certifications based on Threat Intelligence, Cybersecurity & Penetration Testing |
-| ![](Tryhackme.jpg) | **Top 5% on TryHackMe** |
+<h2 align="center">🌍 Global Certifications</h2>
 
+<table align="center" width="85%" border="0" cellspacing="20">
+  <tr>
+    <td align="center" width="50%" valign="top">
 
+   <table width="100%" border="1">
+        <tr>
+          <td align="center">
+            <img src="cehv13ai.png" width="170"><br><br>
+            <strong>CEHv13 AI Certified</strong><br><br>
+            🤖 AI-Enhanced Ethical Hacking & Cybersecurity<br>
+            🌍 Globally Recognized Certification from <strong>EC-Council</strong>
+          </td>
+        </tr>
+      </table>
 
+   </td>
+
+   <td align="center" width="50%" valign="top">
+
+   <table width="100%" border="1">
+        <tr>
+          <td align="center">
+            <img src="chfiv11.png" width="170"><br><br>
+            <strong>CHFI v11 Certified</strong><br><br>
+            🔎 Digital Forensics & Cyber Investigations<br>
+            🌍 Globally Recognized Certification from <strong>EC-Council</strong>
+          </td>
+        </tr>
+      </table>
+
+   </td>
+  </tr>
+</table>
+<br><br>
+
+<h2 align="center">🛡️ Additional Cybersecurity Certifications</h2>
+
+<table border="1" width="70%" align="center">
+  <tr>
+    <td align="center">
+      <strong>CTIGA · CCEP · CPPS · CRTOM</strong><br><br>
+      Certifications focused on Threat Intelligence, Cybersecurity & Penetration Testing
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h2 align="center">⚡ Hands-On Cybersecurity Achievement</h2>
+
+<table border="1" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="Tryhackme.jpg" width="330">
+    </td>
+
+   <td align="center" width="50%">
+      <strong> Top 5% on TryHackMe</strong><br><br>
+      Demonstrating hands-on expertise through practical cybersecurity challenges,
+      offensive security labs, and continuous skill development.
+    </td>
+  </tr>
+</table>
 ---
 
   **<p align="center"> 🌱 Give me another chance, wanna grow up once again..... </p>**
@@ -105,17 +162,6 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315qor4zyvgacm64ungtvo4v7p4a&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/315qor4zyvgacm64ungtvo4v7p4a)
  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315qor4zyvgacm64ungtvo4v7p4a&unique={true|1|on|yes})
-
----
-### 🔝 Contribution
-<div align="center">
-
-[![Sayani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isayani-78&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![](https://github-contributor-stats.vercel.app/api?username=isayani-78&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
-
-
-</div>
 
 ---
 
