@@ -50,6 +50,35 @@
 </table>
 <br><br>
 
+---
+
+<h3 align="center">🌐 EU Cyber Academy Certifications</h3>
+
+<p align="center">
+  Under<br>
+  (European Union Agency for Cybersecurity (ENISA))
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./CRPO%20Badge.jpg" width="170">
+      <br><br>
+      <b>Certified Ransomware Protection Officer</b>
+    </td>
+
+   <td align="center">
+      <img src="./CSCSO%20Badge.jpg" width="170">
+      <br><br>
+      <b>Certified SME Cyber Security Officer</b>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
 <h2 align="center">🛡️ Additional Cybersecurity Certifications</h2>
 
 <table border="1" width="70%" align="center">
